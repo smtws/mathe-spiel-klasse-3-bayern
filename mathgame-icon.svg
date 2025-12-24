@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#2e7d32"/>
+  <circle cx="64" cy="64" r="55" fill="#43a047"/>
+
+  <!-- Temple shape -->
+  <polygon points="64,20 94,50 94,85 34,85 34,50" fill="#d4a017" stroke="#1a1a1a" stroke-width="3"/>
+  <rect x="44" y="55" width="40" height="30" fill="#8b5a2b" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Temple door -->
+  <rect x="54" y="60" width="20" height="25" fill="#5c3a1e" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Temple top decoration -->
+  <polygon points="64,15 74,30 54,30" fill="#f9a825" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Math symbols -->
+  <text x="40" y="105" font-family="Arial Black" font-size="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="1">1+2</text>
+
+  <!-- Palm leaves left -->
+  <ellipse cx="20" cy="45" rx="15" ry="8" fill="#33691e" transform="rotate(-30 20 45)"/>
+  <ellipse cx="18" cy="55" rx="12" ry="6" fill="#558b2f" transform="rotate(-20 18 55)"/>
+
+  <!-- Palm leaves right -->
+  <ellipse cx="108" cy="45" rx="15" ry="8" fill="#33691e" transform="rotate(30 108 45)"/>
+  <ellipse cx="110" cy="55" rx="12" ry="6" fill="#558b2f" transform="rotate(20 110 55)"/>
+
+  <!-- Stars -->
+  <polygon points="25,25 27,30 32,30 28,34 30,39 25,36 20,39 22,34 18,30 23,30" fill="#f9a825"/>
+  <polygon points="103,25 105,30 110,30 106,34 108,39 103,36 98,39 100,34 96,30 101,30" fill="#f9a825"/>
+
+  <!-- Outline -->
+  <circle cx="64" cy="64" r="60" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+</svg>

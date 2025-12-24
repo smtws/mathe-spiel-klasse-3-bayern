@@ -1,0 +1,308 @@
+{
+  "chapters": {
+    "1": {
+      "name": "Fluss-Region",
+      "description": "Überquere den Dschungelfluss und bezwinge den Krokodil-Wächter!",
+      "boss": "krokodil",
+      "levels": {
+        "1": {
+          "title": "Einmaleins-Stromschnellen",
+          "description": "Navigiere dein Floß durch die Stromschnellen!",
+          "questionTypes": ["multiplication"],
+          "questionCount": 6,
+          "difficulty": "easy"
+        },
+        "2": {
+          "title": "Lianenschwung",
+          "description": "Schwinge von Liane zu Liane mit dem Einmaleins!",
+          "questionTypes": ["multiplication"],
+          "questionCount": 8,
+          "difficulty": "easy"
+        },
+        "3": {
+          "title": "Schatztruhen-Code",
+          "description": "Knacke die Zahlenschlösser der alten Truhen!",
+          "questionTypes": ["addition", "subtraction"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "4": {
+          "title": "Bananen-Markt",
+          "description": "Kaufe Vorräte für deine Expedition!",
+          "questionTypes": ["multiplication", "addition"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "5": {
+          "title": "Fluss-Überquerung",
+          "description": "Die letzte Prüfung vor dem Krokodil-Wächter!",
+          "questionTypes": ["multiplication", "addition", "subtraction"],
+          "questionCount": 10,
+          "difficulty": "normal"
+        }
+      }
+    },
+    "2": {
+      "name": "Tiefer Dschungel",
+      "description": "Erkunde die geheimnisvollen Ruinen und triff den Papagei!",
+      "boss": "papagei",
+      "levels": {
+        "1": {
+          "title": "Tempel-Grundriss",
+          "description": "Erkenne die Formen der alten Steine!",
+          "questionTypes": ["geometry"],
+          "questionCount": 6,
+          "difficulty": "easy"
+        },
+        "2": {
+          "title": "Spiegelteich",
+          "description": "Finde die Spiegelachsen der magischen Symbole!",
+          "questionTypes": ["geometry"],
+          "questionCount": 6,
+          "difficulty": "easy"
+        },
+        "3": {
+          "title": "Würfelstein-Rätsel",
+          "description": "Zähle die Ecken und Kanten der Tempelsteine!",
+          "questionTypes": ["geometry"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "4": {
+          "title": "Mosaik-Restaurierung",
+          "description": "Erkenne die Muster und setze sie fort!",
+          "questionTypes": ["geometry"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "5": {
+          "title": "Fallen-Labyrinth",
+          "description": "Finde die rechten Winkel um den Fallen auszuweichen!",
+          "questionTypes": ["geometry"],
+          "questionCount": 10,
+          "difficulty": "normal"
+        }
+      }
+    },
+    "3": {
+      "name": "Tempelberg",
+      "description": "Erklimme den Berg und stelle dich dem Jaguar!",
+      "boss": "jaguar",
+      "levels": {
+        "1": {
+          "title": "Expeditions-Rucksack",
+          "description": "Pack deinen Rucksack mit dem richtigen Gewicht!",
+          "questionTypes": ["measurement"],
+          "questionCount": 6,
+          "difficulty": "easy"
+        },
+        "2": {
+          "title": "Wasservorrat",
+          "description": "Berechne den Wasservorrat für die Expedition!",
+          "questionTypes": ["measurement"],
+          "questionCount": 6,
+          "difficulty": "easy"
+        },
+        "3": {
+          "title": "Bergpfad-Messung",
+          "description": "Miss die Länge des Bergpfades!",
+          "questionTypes": ["measurement"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "4": {
+          "title": "Sonnenaufgang-Timer",
+          "description": "Berechne die Zeit bis zum Sonnenaufgang!",
+          "questionTypes": ["measurement"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "5": {
+          "title": "Proviant-Tabelle",
+          "description": "Rechne den Proviant für die letzte Etappe!",
+          "questionTypes": ["measurement"],
+          "questionCount": 10,
+          "difficulty": "normal"
+        }
+      }
+    },
+    "4": {
+      "name": "Goldener Tempel",
+      "description": "Das Finale! Bezwinge die Sphinx mit allem was du gelernt hast!",
+      "boss": "sphinx",
+      "levels": {
+        "1": {
+          "title": "Tor der Zahlen",
+          "description": "Einmaleins und Grundrechenarten öffnen das erste Tor!",
+          "questionTypes": ["multiplication", "addition", "subtraction"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "2": {
+          "title": "Halle der Formen",
+          "description": "Geometrie-Wissen für die zweite Prüfung!",
+          "questionTypes": ["geometry"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "3": {
+          "title": "Kammer der Größen",
+          "description": "Umrechnungen aller Art warten auf dich!",
+          "questionTypes": ["measurement"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "4": {
+          "title": "Saal der Meister",
+          "description": "Alle Aufgabentypen gemischt - die letzte Prüfung!",
+          "questionTypes": ["multiplication", "division", "addition", "subtraction", "geometry", "measurement"],
+          "questionCount": 10,
+          "difficulty": "hard"
+        },
+        "5": {
+          "title": "Sphinx-Vorkammer",
+          "description": "Beweise dein Können vor dem finalen Kampf!",
+          "questionTypes": ["multiplication", "division", "addition", "subtraction", "geometry", "measurement"],
+          "questionCount": 12,
+          "difficulty": "hard"
+        }
+      }
+    },
+    "5": {
+      "name": "Versunkene Stadt",
+      "description": "Tauche in die Unterwasserwelt und löse die Rätsel der Krake!",
+      "boss": "krake",
+      "levels": {
+        "1": {
+          "title": "Muschel-Markt",
+          "description": "Kaufe und verkaufe auf dem Unterwasser-Markt!",
+          "questionTypes": ["word_problem"],
+          "questionCount": 6,
+          "difficulty": "easy"
+        },
+        "2": {
+          "title": "Schatz-Teilung",
+          "description": "Teile die Schätze gerecht unter den Tauchern auf!",
+          "questionTypes": ["word_problem"],
+          "questionCount": 6,
+          "difficulty": "easy"
+        },
+        "3": {
+          "title": "Korallen-Expedition",
+          "description": "Berechne die Strecken durch das Korallenriff!",
+          "questionTypes": ["word_problem"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "4": {
+          "title": "Gezeiten-Uhr",
+          "description": "Die Zeit unter Wasser vergeht anders - rechne mit!",
+          "questionTypes": ["word_problem"],
+          "questionCount": 8,
+          "difficulty": "normal"
+        },
+        "5": {
+          "title": "Kraken-Höhle",
+          "description": "Die letzte Prüfung vor dem Kraken-Wächter!",
+          "questionTypes": ["word_problem"],
+          "questionCount": 10,
+          "difficulty": "normal"
+        }
+      }
+    }
+  },
+  "bosses": {
+    "krokodil": {
+      "name": "Krokodil-Wächter",
+      "description": "Der gefährliche Wächter der Fluss-Region!",
+      "questionTypes": ["multiplication", "addition", "division"],
+      "questionCount": 10,
+      "timeLimit": 90,
+      "lives": 3,
+      "difficulty": "normal",
+      "reward": {
+        "coins": 100,
+        "sticker": "krokodil",
+        "achievement": "tierfreund"
+      }
+    },
+    "papagei": {
+      "name": "Papagei-Orakel",
+      "description": "Der weise Papagei stellt dir Rätsel in Reimen!",
+      "questionTypes": ["geometry"],
+      "questionCount": 8,
+      "timeLimit": 120,
+      "lives": 3,
+      "difficulty": "normal",
+      "reward": {
+        "coins": 150,
+        "sticker": "papagei",
+        "achievement": "raetselmeister"
+      }
+    },
+    "jaguar": {
+      "name": "Jaguar-Wächter",
+      "description": "Der schnelle Jaguar jagt dich - sei schneller!",
+      "questionTypes": ["measurement"],
+      "questionCount": 12,
+      "timeLimit": 60,
+      "lives": 3,
+      "difficulty": "hard",
+      "reward": {
+        "coins": 200,
+        "sticker": "jaguar",
+        "achievement": "schnelllaeufer"
+      }
+    },
+    "sphinx": {
+      "name": "Sphinx-Rätselmeister",
+      "description": "Die uralte Sphinx stellt die ultimative Prüfung - alle Mathe-Gebiete vereint!",
+      "questionTypes": ["multiplication", "division", "addition", "subtraction", "geometry", "measurement"],
+      "questionCount": 15,
+      "timeLimit": 180,
+      "lives": 3,
+      "difficulty": "hard",
+      "reward": {
+        "coins": 500,
+        "sticker": "sphinx",
+        "achievement": "tempel_meister"
+      }
+    },
+    "krake": {
+      "name": "Kraken-Rätselmeister",
+      "description": "Die weise Krake stellt knifflige Textaufgaben mit ihren 8 Armen!",
+      "questionTypes": ["word_problem"],
+      "questionCount": 10,
+      "timeLimit": 300,
+      "lives": 3,
+      "difficulty": "hard",
+      "reward": {
+        "coins": 400,
+        "sticker": "krake",
+        "achievement": "textaufgaben_meister"
+      }
+    }
+  },
+  "achievements": {
+    "schnellrechner": {
+      "name": "Schnellrechner",
+      "description": "5 Aufgaben in Folge ohne Fehler",
+      "icon": "streak"
+    },
+    "tierfreund": {
+      "name": "Tierfreund",
+      "description": "Ersten Boss besiegt",
+      "icon": "boss"
+    },
+    "mathe_forscher": {
+      "name": "Mathe-Forscher",
+      "description": "Erstes Kapitel abgeschlossen",
+      "icon": "chapter"
+    },
+    "tempel_meister": {
+      "name": "Tempel-Meister",
+      "description": "Das Spiel durchgespielt",
+      "icon": "trophy"
+    }
+  }
+}
