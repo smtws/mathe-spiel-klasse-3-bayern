@@ -5,6 +5,16 @@ Ein interaktives Mathe-Lernspiel für Grundschüler der 3. Klasse, basierend auf
 ![Phaser 3](https://img.shields.io/badge/Phaser-3.87-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## Screenshots
+
+| Hauptmenü | Weltkarte |
+|-----------|-----------|
+| ![Hauptmenü](screenshots/01-menu.png) | ![Weltkarte](screenshots/04-worldmap.png) |
+
+| Level-Ansicht |
+|---------------|
+| ![Level](screenshots/05-level.png) |
+
 ## Features
 
 - **12 Kapitel** mit je 5 Leveln und Bossgegner
